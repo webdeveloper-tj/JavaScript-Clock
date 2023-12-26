@@ -1,19 +1,19 @@
 body {
   background-color: black;
   color: aqua;
-  font-size: 4.5em;
+  font-size: 3.2em;
   font-family: sans-serif;
 }
 h1 {
-  font-size: 28px;
-  transform: translateY(200px) rotate(-45deg);
+  font-size: 25px;
+  transform: translateY(150px) rotate(-45deg);
   text-shadow: 0px -50px aqua, 0px 50px aqua;
   display: inline-block;
 }
 .container {
   width: 500px;
-  height: 500px;
-  margin: 1.4cap auto;
+  height: 450px;
+  margin: 1.2cap auto;
   border-top-right-radius: 60%;
   border-bottom-left-radius: 60%;
   text-align: center;
