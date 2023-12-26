@@ -25,3 +25,8 @@ h1 {
 .container:hover {
   box-shadow: 1px 1px 0px 0px aqua;
 }
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
